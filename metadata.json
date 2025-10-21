@@ -1,0 +1,5 @@
+{
+  "name": "Fraction Slicer",
+  "description": "A fun game for kids to learn fractions by slicing a square at the right moment. The goal is to stop a moving line to match a target fraction and score points.",
+  "requestFramePermissions": []
+}
